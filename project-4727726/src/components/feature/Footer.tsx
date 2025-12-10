@@ -120,14 +120,7 @@ export default function Footer() {
               >
                 Legal Information
               </Link>
-              <a
-                href="https://readdy.ai/?origin=logo"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-sm text-teal-100 hover:text-white transition-colors cursor-pointer"
-              >
-                Powered by Readdy
-              </a>
+        
             </div>
           </div>
         </div>
